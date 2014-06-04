@@ -10,4 +10,7 @@ package introgithub;
  */
 public class Client {
     
+    int nom;
+    
+    
 }
