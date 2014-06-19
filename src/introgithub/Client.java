@@ -12,5 +12,9 @@ public class Client {
     
     int nom;
     
+    int age;
+    
+    
+    
     
 }
