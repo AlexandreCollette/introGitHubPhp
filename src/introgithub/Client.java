@@ -14,6 +14,8 @@ public class Client {
     
     int age;
     
+    String prenom;
+    
     
     
     
