@@ -16,6 +16,8 @@ public class Client {
     
     String adresse;
     
+    String tel;
+    
     
     
     
