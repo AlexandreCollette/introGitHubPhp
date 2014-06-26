@@ -16,7 +16,7 @@ public class Client {
     
     String adresse;
     
-    
+    String mail;
     
     
 }
