@@ -10,11 +10,11 @@ package introgithub;
  */
 public class Client {
     
-    String nom;
-    
-    int age;
-    
+    String nom;    
+    int age;    
     String prenom;
+    
+    String adresse;
     
     
     
